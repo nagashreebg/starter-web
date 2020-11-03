@@ -14,14 +14,17 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-
-			Just some content changed before rebasing conflicts klsdjfdlskfj
+<<<<<<< HEAD
+			Just some content changed before rebasing conflicts
 
 more changes
+chasdfj
+=======
+			Just some content changed before rebasing conflicts klsdjfdlskfj
 skdfhsdfjklhsdf;
 sldkjfsdjhfsdl;jfh
 alsdfhldshffsdf'ldslfklhdf
-adding trouble to simple.html
+>>>>>>> 22e898c... adding trouble to simple.html
 		</p>
 	</main>
 	<footer class="container">
